@@ -4,9 +4,11 @@ It executes voice and text orders, including greetings, time announcing, opening
 self-shutdown. Simple to utilize, expand, and inspired by sparse resources, for simplicity of adding new functions.
 
 Language Used--->
+
 Python
 
 Common Commands---> 
+
 Hello
 
 Whats the time now
